@@ -29,6 +29,8 @@ public class LojaDeBike
         else if(opcao==3){
             opcao3();
         }
+        else if(opcao==4){
+            opcao4
     }
     static int quantidade101=0, quantidade102=0, quantidade103=0, quantidade104=0;
     static int quantidadeProdutosPromocao=0;
